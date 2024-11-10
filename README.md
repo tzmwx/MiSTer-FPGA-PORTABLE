@@ -13,3 +13,6 @@ POWER MODULE：
 SWITCHES：
 ![photo-output](https://github.com/user-attachments/assets/2cd0c5f4-51b0-43bc-8c03-22b4e6531818)
 ![photo-output](https://github.com/user-attachments/assets/5624dc9c-2800-46c5-8b1e-97f1b6bd26b6)
+USB PORT：
+![photo-output](https://github.com/user-attachments/assets/d2c23ad8-53fa-481b-b34d-e34ec5e9c13f)
+![photo-output](https://github.com/user-attachments/assets/9a44de91-327f-4495-bd73-5ad129d3d19e)
