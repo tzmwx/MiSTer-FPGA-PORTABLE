@@ -2,6 +2,9 @@ MiSTer FPGA PORTABLE
 ![IMG_9300](https://github.com/user-attachments/assets/463d76c5-269f-40c2-9284-07038b6b4f5f)
 ![2(1)](https://github.com/user-attachments/assets/3893ae57-7fad-4d24-998c-ea7bacce4fd7)
 ![1(1)](https://github.com/user-attachments/assets/b4b9a884-46a1-4dfa-8835-f5819414c5a5)
+LCD：
+![photo-output](https://github.com/user-attachments/assets/11a63948-8ca3-414e-92b6-c2e8f45b4a41)
+
 QMTECH FPGA BOARD：
 ![photo-output](https://github.com/user-attachments/assets/8f174586-af15-4776-b2ce-ca58ed2a5c05)
 LCD BOARD：
@@ -15,4 +18,4 @@ SWITCHES：
 ![photo-output](https://github.com/user-attachments/assets/5624dc9c-2800-46c5-8b1e-97f1b6bd26b6)
 USB PORT：
 ![photo-output](https://github.com/user-attachments/assets/d2c23ad8-53fa-481b-b34d-e34ec5e9c13f)
-![photo-output](https://github.com/user-attachments/assets/9a44de91-327f-4495-bd73-5ad129d3d19e)
+![photo-output](https://github.com/user-attachments/assets/aa497579-d196-4cfd-9230-53dfbcb6da49)
