@@ -10,3 +10,6 @@ USB HUB：
 ![photo-output](https://github.com/user-attachments/assets/3feb9c05-ca51-4e2f-b5b6-f76a1679852d)
 POWER MODULE：
 ![photo-output](https://github.com/user-attachments/assets/9c8752b0-98c2-4454-b468-ffe6857169bb)
+KEY：
+![photo-output](https://github.com/user-attachments/assets/036a3c53-5f9f-4860-9095-88c8ecf3ce36)
+![photo-output](https://github.com/user-attachments/assets/5624dc9c-2800-46c5-8b1e-97f1b6bd26b6)
