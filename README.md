@@ -6,3 +6,5 @@ QMTECH FPGA BOARD：
 ![photo-output](https://github.com/user-attachments/assets/8f174586-af15-4776-b2ce-ca58ed2a5c05)
 LCD BOARD：
 ![photo-output](https://github.com/user-attachments/assets/8a088ed1-4e90-4b01-a529-81bb3cd63434)
+USB HUB：
+![photo-output](https://github.com/user-attachments/assets/3feb9c05-ca51-4e2f-b5b6-f76a1679852d)
