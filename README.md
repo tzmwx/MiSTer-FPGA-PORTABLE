@@ -24,10 +24,10 @@ SPEAKER：
 ![photo-output](https://github.com/user-attachments/assets/b435b15b-c6f3-44a6-b78f-85a6c1ba8c3b)
 GAMEPAD：
 ![photo-output](https://github.com/user-attachments/assets/424b1608-f5af-49a3-8dee-cea56e610acb)
+BATTERY：
+![photo-output](https://github.com/user-attachments/assets/bb15cb87-d515-4819-b345-67908b86c6cc)
 
 
 
 
 ![IMG_9137](https://github.com/user-attachments/assets/c44f69f7-1dea-4e65-a25a-ffb006b38008)
-![IMG_9140](https://github.com/user-attachments/assets/4e40eb52-5386-48d4-8440-3b4526d325a9)
-![IMG_9138](https://github.com/user-attachments/assets/f8d1bb07-0102-4699-bd34-b8abcb8d1c83)
