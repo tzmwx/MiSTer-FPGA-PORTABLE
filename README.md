@@ -20,4 +20,12 @@ SWITCHES：
 USB PORT：
 ![photo-output](https://github.com/user-attachments/assets/d2c23ad8-53fa-481b-b34d-e34ec5e9c13f)
 ![photo-output](https://github.com/user-attachments/assets/aa497579-d196-4cfd-9230-53dfbcb6da49)
+SPEAKER：
+![photo-output](https://github.com/user-attachments/assets/b435b15b-c6f3-44a6-b78f-85a6c1ba8c3b)
 
+
+
+
+![IMG_9137](https://github.com/user-attachments/assets/c44f69f7-1dea-4e65-a25a-ffb006b38008)
+![IMG_9140](https://github.com/user-attachments/assets/4e40eb52-5386-48d4-8440-3b4526d325a9)
+![IMG_9138](https://github.com/user-attachments/assets/f8d1bb07-0102-4699-bd34-b8abcb8d1c83)
