@@ -2,8 +2,9 @@ MiSTer FPGA PORTABLE
 ![IMG_9300](https://github.com/user-attachments/assets/463d76c5-269f-40c2-9284-07038b6b4f5f)
 ![2(1)](https://github.com/user-attachments/assets/3893ae57-7fad-4d24-998c-ea7bacce4fd7)
 ![1(1)](https://github.com/user-attachments/assets/b4b9a884-46a1-4dfa-8835-f5819414c5a5)
-![`0`3{2~AAVP} IHVCQ{ SR8](https://github.com/user-attachments/assets/2ca33ebf-53ac-4a35-89c9-abaa87c62e30)
+![IMG_9137](https://github.com/user-attachments/assets/c44f69f7-1dea-4e65-a25a-ffb006b38008)
 ![3(1)](https://github.com/user-attachments/assets/aa0c717f-90bc-4cae-9cad-578aa8ef3654)
+![`0`3{2~AAVP} IHVCQ{ SR8](https://github.com/user-attachments/assets/2ca33ebf-53ac-4a35-89c9-abaa87c62e30)
 LCD：
 ![photo-output](https://github.com/user-attachments/assets/11a63948-8ca3-414e-92b6-c2e8f45b4a41)
 FPGA BOARD：
@@ -30,4 +31,4 @@ BATTERY：
 
 
 
-![IMG_9137](https://github.com/user-attachments/assets/c44f69f7-1dea-4e65-a25a-ffb006b38008)
+
