@@ -22,6 +22,8 @@ USB PORT：
 ![photo-output](https://github.com/user-attachments/assets/aa497579-d196-4cfd-9230-53dfbcb6da49)
 SPEAKER：
 ![photo-output](https://github.com/user-attachments/assets/b435b15b-c6f3-44a6-b78f-85a6c1ba8c3b)
+GAMEPAD：
+![photo-output](https://github.com/user-attachments/assets/424b1608-f5af-49a3-8dee-cea56e610acb)
 
 
 
