@@ -2,10 +2,11 @@ MiSTer FPGA PORTABLE
 ![IMG_9300](https://github.com/user-attachments/assets/463d76c5-269f-40c2-9284-07038b6b4f5f)
 ![2(1)](https://github.com/user-attachments/assets/3893ae57-7fad-4d24-998c-ea7bacce4fd7)
 ![1(1)](https://github.com/user-attachments/assets/b4b9a884-46a1-4dfa-8835-f5819414c5a5)
+![`0`3{2~AAVP} IHVCQ{ SR8](https://github.com/user-attachments/assets/2ca33ebf-53ac-4a35-89c9-abaa87c62e30)
+![3(1)](https://github.com/user-attachments/assets/aa0c717f-90bc-4cae-9cad-578aa8ef3654)
 LCD：
 ![photo-output](https://github.com/user-attachments/assets/11a63948-8ca3-414e-92b6-c2e8f45b4a41)
-
-QMTECH FPGA BOARD：
+FPGA BOARD：
 ![photo-output](https://github.com/user-attachments/assets/8f174586-af15-4776-b2ce-ca58ed2a5c05)
 LCD BOARD：
 ![photo-output](https://github.com/user-attachments/assets/8a088ed1-4e90-4b01-a529-81bb3cd63434)
@@ -19,3 +20,4 @@ SWITCHES：
 USB PORT：
 ![photo-output](https://github.com/user-attachments/assets/d2c23ad8-53fa-481b-b34d-e34ec5e9c13f)
 ![photo-output](https://github.com/user-attachments/assets/aa497579-d196-4cfd-9230-53dfbcb6da49)
+
