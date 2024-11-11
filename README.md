@@ -30,6 +30,8 @@ JOYCON：
 ![photo-output](https://github.com/user-attachments/assets/d18620dd-8d4d-4dec-a1dd-9c8a950f08e4)
 BATTERY：
 ![photo-output](https://github.com/user-attachments/assets/bb15cb87-d515-4819-b345-67908b86c6cc)
+FPC & EXTENDER：
+![photo-output](https://github.com/user-attachments/assets/a4422110-7537-4496-bb0e-fa0814187fb2)
 
 
 
